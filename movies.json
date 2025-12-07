@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "The Matrix",
+    "year": 1999,
+    "watched": true,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "paha",
+    "year": 2006,
+    "watched": true,
+    "rating": 10
+  },
+  {
+    "id": 3,
+    "title": "ando",
+    "year": 2007,
+    "watched": false,
+    "rating": null
+  }
+]
